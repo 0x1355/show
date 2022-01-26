@@ -1,0 +1,25 @@
+#+TITLE: Configure write-or-die mode
+#+LOOP_TYPE: WORK D --> Production code
+#+STARTUP: showall
+
+* DONE INTENT
+CLOSED: [2022-01-26 wo 12:42]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-26 wo 12:42]
+:END:
+Set up write-or-die ready for SHOW loops.
+
+* TODO EXPLORE -> Architecture
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+** TODO How do I make the text become transparent in stage 1?
+** TODO How do I make the transition smoother?
+:LOGBOOK:
+- State "TODO"       from              [2022-01-26 wo 12:42]
+:END:
+
+* TODO CRAFT --> Production code
+
+
+* TODO DRILL --> Drills made
