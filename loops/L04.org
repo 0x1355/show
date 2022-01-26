@@ -9,17 +9,47 @@ CLOSED: [2022-01-26 wo 12:42]
 :END:
 Set up write-or-die ready for SHOW loops.
 
-* TODO EXPLORE -> Architecture
+* DONE EXPLORE -> Architecture
+CLOSED: [2022-01-26 wo 13:10]
 :PROPERTIES:
 :VISIBILITY: content
 :END:
-** TODO How do I make the text become transparent in stage 1?
-** TODO How do I make the transition smoother?
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-26 wo 13:10]
+:END:
+** PASSED How do I make the text become transparent in stage 1?
+:LOGBOOK:
+- State "PASSED"     from "TODO"       [2022-01-26 wo 12:48]
+:END:
+Too difficult
+** DONE How do I make the word killing smoother?
+CLOSED: [2022-01-26 wo 13:00]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-26 wo 13:00]
 - State "TODO"       from              [2022-01-26 wo 12:42]
 :END:
+Better timing periods
+** DONE How do I start Write mode with org-mode?
+CLOSED: [2022-01-26 wo 13:09]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-26 wo 13:09]
+- State "TODO"       from              [2022-01-26 wo 12:43]
+:END:
+** DONE How do I bind F7 and F8 to start and stop Write! mode?
+CLOSED: [2022-01-26 wo 13:09]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-26 wo 13:09]
+- State "TODO"       from              [2022-01-26 wo 12:44]
+:END:
 
-* TODO CRAFT --> Production code
+* DONE CRAFT --> Production code
+CLOSED: [2022-01-26 wo 13:09]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-26 wo 13:09]
+:END:
 
 
-* TODO DRILL --> Drills made
+* PASSED DRILL --> Drills made
+:LOGBOOK:
+- State "PASSED"     from "TODO"       [2022-01-26 wo 13:10]
+:END:

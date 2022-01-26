@@ -29,7 +29,7 @@ I have published my works on every weekday for 100 days.
 | Loop | Type | Output                        | Explore | Craft | Drill |
 |------+------+-------------------------------+---------+-------+-------|
 |    3 | A    | Find disappearing text mode   | [x]     | [x]   | [-]   |
-|    4 | D    | Config disappearing text mode | [ ]     | [ ]   | [ ]   |
+|    4 | D    | Config disappearing text mode | [x]     | [x]   | [-]   |
 |------+------+-------------------------------+---------+-------+-------|
 |    5 | A    | Draft: piece 1                | [ ]     | [ ]   | [ ]   |
 |    6 | B    | Publish: piece 1              | [ ]     | [ ]   | [ ]   |
