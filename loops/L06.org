@@ -1,0 +1,33 @@
+#+TITLE: Set up 0x1355 v0.1 with Hugo
+#+LOOP_TYPE: WORK D --> Production code
+#+STARTUP: showall
+
+* DONE INTENT
+CLOSED: [2022-02-05 za 04:38]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 04:38]
+:END:
+Get 0x1355 up and running, to get real with showing my work
+
+* TODO EXPLORE -> Architecture
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+** TODO How do I install hugo?
+:LOGBOOK:
+- State "TODO"       from              [2022-02-05 za 04:38]
+:END:
+** TODO Which theme do I try first?
+:LOGBOOK:
+- State "TODO"       from              [2022-02-05 za 04:37]
+:END:
+** TODO Can I replicate the steps I noted down in L05?
+** TODO How to use 0x1355.com as domain? 
+:LOGBOOK:
+- State "TODO"       from              [2022-02-05 za 04:37]
+:END:
+
+* TODO CRAFT --> Production code
+
+
+* TODO DRILL --> Drills made
