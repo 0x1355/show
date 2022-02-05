@@ -10,9 +10,13 @@ CLOSED: [2022-02-05 za 03:53]
 Find out the steps to follow to build a site with Hugo
 
 
-* TODO EXPLORE -> Exploratory tests
+* DONE EXPLORE -> Exploratory tests
+CLOSED: [2022-02-05 za 08:45]
 :PROPERTIES:
 :VISIBILITY: content
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:45]
 :END:
 
 ** DONE Which guide do I follow?
@@ -23,8 +27,10 @@ CLOSED: [2022-02-05 za 03:54]
 [[https://www.youtube.com/watch?v=LIFvgrRxdt4][Video guide to see it end-to-end]]
 [[https://gohugo.io/getting-started/quick-start/][Hugo Quick Start Guide]]
 
-** TODO What are the steps?
+** DONE What are the steps?
+CLOSED: [2022-02-05 za 08:45]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:45]
 - State "TODO"       from              [2022-02-05 za 03:53]
 :END:
 
@@ -94,8 +100,10 @@ cd simplesite
 git submodule add -b main git:xxx public
 #+end_src
 
-*** TODO Generate static files
+*** DONE Generate static files
+CLOSED: [2022-02-05 za 08:45]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:45]
 - State "TODO"       from "DONE"       [2022-02-05 za 08:27]
 - State "DONE"       from              [2022-02-05 za 08:27]
 :END:

@@ -64,12 +64,24 @@ hugo v0.92.0+extended linux/amd64 BuildDate=unknown
 Total in 38 ms
 #+end_example
 
-** TODO Configure production repo settings to go lvie
+** DONE Configure production repo settings to go lvie
+CLOSED: [2022-02-05 za 08:44]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:44]
 - State "TODO"       from              [2022-02-05 za 08:28]
 :END:
 
-* TODO CRAFT --> Production code
+Added A records to DNS on NameCheap
+
+* DONE CRAFT --> Production code
+CLOSED: [2022-02-05 za 08:44]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:44]
+:END:
 
 
-* TODO DRILL --> Drills made
+* PASSED DRILL --> Drills made
+:LOGBOOK:
+- State "PASSED"     from "DONE"       [2022-02-05 za 08:44]
+- State "DONE"       from "TODO"       [2022-02-05 za 08:44]
+:END:

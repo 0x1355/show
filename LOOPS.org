@@ -34,7 +34,7 @@ I have published my works on every weekday for 100 days.
 |    5 | W-A  | Find out how to set up a hugo site | [x]     | [x]   | [x]   |
 |    6 | W-A  | Decide which theme to try first    | [x]     | [x]   | [-]   |
 |    7 | W-D  | Set up hugo site locally           | [x]     | [x]   | [x]   |
-|    8 | A    | Publish evmexplore.com             | [ ]     | [ ]   | [ ]   |
+|    8 | A    | Publish evmexplore.com             | [x]     | [x]   | [-]   |
 |------+------+------------------------------------+---------+-------+-------|
 |    9 | A    | Draft: piece 1                     | [ ]     | [ ]   | [ ]   |
 |   10 | B    | Publish: piece 1                   | [ ]     | [ ]   | [ ]   |
