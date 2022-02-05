@@ -1,0 +1,75 @@
+#+TITLE: Publish evmexplore.com
+#+LOOP_TYPE: WORK D --> Production code
+#+STARTUP: showall
+
+* DONE INTENT
+CLOSED: [2022-02-05 za 08:20]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:20]
+:END:
+Make it real! Start showing my work!
+
+* TODO EXPLORE -> Architecture
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+
+** DONE How to set up production repo as git submodule of evm-explore, in public directory? 
+CLOSED: [2022-02-05 za 08:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:27]
+- State "TODO"       from              [2022-02-05 za 08:20]
+:END:
+
+Ran in terminal
+#+begin_src sh :session sh :results replace :eval never
+cd ~/show-my-works/evm-explore
+rm public
+git submodule add -f git@github.com:0x1355/evm-explore.git public
+#+end_src
+
+** DONE Edit hello_friend post a bit
+CLOSED: [2022-02-05 za 08:29]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:29]
+- State "TODO"       from              [2022-02-05 za 08:27]
+:END:
+
+** TODO Generate static files and push to production
+:LOGBOOK:
+- State "TODO"       from              [2022-02-05 za 08:27]
+:END:
+#+begin_src sh :session sh :results replace
+cd ~/show-my-works/evm-explore
+hugo -t hello-friend
+#+end_src
+
+#+RESULTS:
+#+begin_example
+
+Start building sites … 
+hugo v0.92.0+extended linux/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            | 10  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     | 10  
+  Processed images |  0  
+  Aliases          |  2  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 38 ms
+#+end_example
+
+** TODO Configure production repo settings to go lvie
+:LOGBOOK:
+- State "TODO"       from              [2022-02-05 za 08:28]
+:END:
+
+* TODO CRAFT --> Production code
+
+
+* TODO DRILL --> Drills made

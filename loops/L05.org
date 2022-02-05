@@ -79,8 +79,10 @@ hugo new posts/POST_Name.md
 emacs posts/POST_NAME.md
 #+end_src
 
-*** TODO Create a production repo for deployment
+*** DONE Create a production repo for deployment
+CLOSED: [2022-02-05 za 08:27]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 08:27]
 - State "TODO"       from              [2022-02-05 za 06:53]
 :END:
 
@@ -92,7 +94,11 @@ cd simplesite
 git submodule add -b main git:xxx public
 #+end_src
 
-*** Generate static files
+*** TODO Generate static files
+:LOGBOOK:
+- State "TODO"       from "DONE"       [2022-02-05 za 08:27]
+- State "DONE"       from              [2022-02-05 za 08:27]
+:END:
 
 **** Generate static files
 #+begin_src sh :session sh :results replace

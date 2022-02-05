@@ -7,3 +7,6 @@
 [submodule "evm-explore/themes/hello-friend"]
 	path = evm-explore/themes/hello-friend
 	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "evm-explore/public"]
+	path = evm-explore/public
+	url = git@github.com:0x1355/evm-explore.git
