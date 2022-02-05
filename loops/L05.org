@@ -28,7 +28,11 @@ CLOSED: [2022-02-05 za 03:54]
 - State "TODO"       from              [2022-02-05 za 03:53]
 :END:
 
-*** Create a site repo for code
+*** DONE Create a site repo for code
+CLOSED: [2022-02-05 za 06:53]
+:LOGBOOK:
+- State "DONE"       from              [2022-02-05 za 06:53]
+:END:
 
 **** DONE In site repo, create new hugo site
 CLOSED: [2022-02-05 za 06:25]
@@ -75,7 +79,10 @@ hugo new posts/POST_Name.md
 emacs posts/POST_NAME.md
 #+end_src
 
-*** Create a production repo for deployment
+*** TODO Create a production repo for deployment
+:LOGBOOK:
+- State "TODO"       from              [2022-02-05 za 06:53]
+:END:
 
 **** Make at least one commit to create main branch
 

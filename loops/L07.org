@@ -1,4 +1,4 @@
-#+TITLE: Set up 0x1355.com with hugo
+#+TITLE: Set up hugo locally
 #+LOOP_TYPE: WORK D --> Production code
 #+STARTUP: showall
 
@@ -9,12 +9,18 @@ CLOSED: [2022-02-05 za 05:56]
 :END:
 Get 0x1355 up and running. Get real with showing my work.
 
-* TODO EXPLORE -> Architecture
+* DONE EXPLORE -> Architecture
+CLOSED: [2022-02-05 za 07:13]
 :PROPERTIES:
 :VISIBILITY: content
 :END:
-** TODO Can I replicate the steps I noted down in L05?
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 07:13]
+:END:
+** DONE Can I replicate the steps I noted down in L05?
+CLOSED: [2022-02-05 za 07:13]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 07:13]
 - State "TODO"       from "NEXT"       [2022-02-05 za 05:56]
 - State "NEXT"       from "TODO"       [2022-02-05 za 05:05]
 :END:
@@ -77,10 +83,14 @@ CLOSED: [2022-02-05 za 06:48]
 :LOGBOOK:
 - State "DONE"       from              [2022-02-05 za 06:48]
 :END:
-# DRILL
+
 [[https://themes.gohugo.io/themes/hugo-theme-hello-friend/#how-to-configure][Edited config.toml for hello-friend]]
 
-*** Add post
+*** DONE Add post
+CLOSED: [2022-02-05 za 06:52]
+:LOGBOOK:
+- State "DONE"       from              [2022-02-05 za 06:52]
+:END:
 #+begin_src sh :session sh :results replace
 hugo new posts/hello_friend.md
 #+end_src
@@ -88,18 +98,15 @@ hugo new posts/hello_friend.md
 #+RESULTS:
 : Content "/home/less/show-my-works/evm-explore/content/posts/hello_friend.md" created
 
-
-** TODO How to use 0x1355.com as domain? 
+* DONE CRAFT --> Production code
+CLOSED: [2022-02-05 za 07:13]
 :LOGBOOK:
-- State "TODO"       from "NEXT"       [2022-02-05 za 05:56]
-- State "NEXT"       from "TODO"       [2022-02-05 za 05:05]
-- State "TODO"       from              [2022-02-05 za 04:37]
+- State "DONE"       from "TODO"       [2022-02-05 za 07:13]
 :END:
 
 
-
-
-* TODO CRAFT --> Production code
-
-
-* TODO DRILL --> Drills made
+* DONE DRILL --> Drills made
+CLOSED: [2022-02-05 za 07:16]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 07:16]
+:END:
