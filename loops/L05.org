@@ -30,25 +30,41 @@ CLOSED: [2022-02-05 za 03:54]
 
 *** Create a site repo for code
 
-**** In site repo, create new hugo site
+**** DONE In site repo, create new hugo site
+CLOSED: [2022-02-05 za 06:25]
+:LOGBOOK:
+- State "DONE"       from              [2022-02-05 za 06:25]
+:END:
 #+begin_src sh :session sh :results replace
 hugo new site simplesite
 #+end_src
 
-**** Add theme
+**** DONE Add theme
+CLOSED: [2022-02-05 za 06:25]
+:LOGBOOK:
+- State "DONE"       from              [2022-02-05 za 06:25]
+:END:
 #+begin_src sh :session sh :results replace
 cd simplesite/themes
 git clone xxx
 #+end_src
 
-**** Set default theme
+**** DONE Set default theme
+CLOSED: [2022-02-05 za 06:25]
+:LOGBOOK:
+- State "DONE"       from              [2022-02-05 za 06:25]
+:END:
 In config.toml:
 #+begin_src :session sh :results replace
 theme="contrast-hugo"
 baseURL="https://simplesite.io/"
 #+end_src
 
-**** Check if the site works
+**** DONE Check if the site works
+CLOSED: [2022-02-05 za 06:25]
+:LOGBOOK:
+- State "DONE"       from              [2022-02-05 za 06:25]
+:END:
 #+begin_src sh :session sh :results replace
 hugo server
 #+end_src

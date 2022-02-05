@@ -1,4 +1,4 @@
-baseURL = 'http://0x1355.com/'
+baseURL = 'http://evmexplore.com/'
 languageCode = 'en-us'
 
 theme = "hello-friend"
@@ -28,10 +28,10 @@ paginate = 10
 
 [languages]
   [languages.en]
-    title = "Explore EVM with 0x1355"
-    subtitle = "What I learn from stiching transaction data and poking smart contracts on Ethereum Virtual Machines"
+    title = "EVM Explore"
+    subtitle = "Notes on stiching transaction data and poking smart contracts on Ethereum Virtual Machines"
     keywords = "ethereum smart_contract evm mainnet"
-    copyright = "0x1355"
+    copyright = "Copyright by 0x1355"
     menuMore = "Show more"
     writtenBy = ""
     readMore = "Read more"
@@ -45,7 +45,7 @@ paginate = 10
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "explore evm"
+      logoText = "evm explore"
       logoHomeLink = "/"
     # or
     #

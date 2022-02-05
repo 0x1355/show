@@ -4,3 +4,6 @@
 [submodule "0x1355/themes/hello-friend"]
 	path = 0x1355/themes/hello-friend
 	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "evm-explore/themes/hello-friend"]
+	path = evm-explore/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
