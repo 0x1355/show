@@ -1,0 +1,100 @@
+#+TITLE: Find out how to build a site with Hugo
+#+LOOP_TYPE: WORK B --> Working snippet
+#+STARTUP: showall
+
+* DONE INTENT
+CLOSED: [2022-02-05 za 03:53]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 03:53]
+:END:
+Find out the steps to follow to build a site with Hugo
+
+
+* TODO EXPLORE -> Exploratory tests
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+
+** DONE Which guide do I follow?
+CLOSED: [2022-02-05 za 03:54]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 03:54]
+:END:
+[[https://www.youtube.com/watch?v=LIFvgrRxdt4][Video guide to see it end-to-end]]
+[[https://gohugo.io/getting-started/quick-start/][Hugo Quick Start Guide]]
+
+** TODO What are the steps?
+:LOGBOOK:
+- State "TODO"       from              [2022-02-05 za 03:53]
+:END:
+
+*** Create a site repo for code
+
+**** In site repo, create new hugo site
+#+begin_src sh :session sh :results replace
+hugo new site simplesite
+#+end_src
+
+**** Add theme
+#+begin_src sh :session sh :results replace
+cd simplesite/themes
+git clone xxx
+#+end_src
+
+**** Set default theme
+In config.toml:
+#+begin_src :session sh :results replace
+theme="contrast-hugo"
+baseURL="https://simplesite.io/"
+#+end_src
+
+**** Check if the site works
+#+begin_src sh :session sh :results replace
+hugo server
+#+end_src
+
+**** Add post
+#+begin_src sh :session sh :results replace
+hugo new posts/POST_Name.md
+emacs posts/POST_NAME.md
+#+end_src
+
+*** Create a production repo for deployment
+
+**** Make at least one commit to create main branch
+
+**** Add the production repo as a git submodule of the site repo, in the public directory
+#+begin_src sh :session sh :results replace
+cd simplesite
+git submodule add -b main git:xxx public
+#+end_src
+
+*** Generate static files
+
+**** Generate static files
+#+begin_src sh :session sh :results replace
+hugo -t contrast-hugo
+#+end_src
+
+**** Check in public direcotry and push
+#+begin_src sh :session sh :results replace
+git push origin main
+#+end_src
+
+**** Configue GitHub Pages setting in production repo settinng on GitHub 
+
+
+* DONE CRAFT --> Working snippets
+CLOSED: [2022-02-05 za 04:21]
+:LOGBOOK:
+- State "DONE"       from "PASSED"     [2022-02-05 za 04:21]
+- State "PASSED"     from "TODO"       [2022-02-05 za 04:21]
+:END:
+
+In the EXPLORE section
+
+* DONE DRILL --> Drills made
+CLOSED: [2022-02-05 za 04:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 04:27]
+:END:
