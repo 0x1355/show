@@ -1,0 +1,63 @@
+#+TITLE: Set up 0x1355.com with hugo
+#+LOOP_TYPE: WORK D --> Production code
+#+STARTUP: showall
+
+* DONE INTENT
+CLOSED: [2022-02-05 za 05:56]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-05 za 05:56]
+:END:
+Get 0x1355 up and running. Get real with showing my work.
+
+* TODO EXPLORE -> Architecture
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+** TODO Can I replicate the steps I noted down in L05?
+:LOGBOOK:
+- State "TODO"       from "NEXT"       [2022-02-05 za 05:56]
+- State "NEXT"       from "TODO"       [2022-02-05 za 05:05]
+:END:
+#+begin_src sh :session sh :results silent
+cd ~/show-my-works
+#+end_src
+
+#+begin_src sh :session sh :results replace
+hugo new site 0x1355
+#+end_src
+
+#+RESULTS:
+#+begin_example
+Congratulations! Your new Hugo site is created in /home/less/show-my-works/0x1355.
+
+Just a few more steps and you're ready to go:
+
+1. Download a theme into the same-named folder.
+   Choose a theme from https://themes.gohugo.io/ or
+" command.
+2. Perhaps you want to add some content. You can add single files
+/<FILENAME>.<FORMAT>".
+3. Start the built-in live server via "hugo server".
+
+Visit https://gohugo.io/ for quickstart guide and full documentation.
+#+end_example
+
+#+begin_src sh :session sh :results replace
+
+#+end_src
+
+
+** TODO How to use 0x1355.com as domain? 
+:LOGBOOK:
+- State "TODO"       from "NEXT"       [2022-02-05 za 05:56]
+- State "NEXT"       from "TODO"       [2022-02-05 za 05:05]
+- State "TODO"       from              [2022-02-05 za 04:37]
+:END:
+
+
+
+
+* TODO CRAFT --> Production code
+
+
+* TODO DRILL --> Drills made
