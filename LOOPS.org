@@ -1,49 +1,54 @@
 #+TITLE: Show My Works
 #+STARTUP: showall
 
-|------------+-----+----------------+-----------------|
-|      Start | End | Blocks per day | Blocks per loop |
-|------------+-----+----------------+-----------------|
-| 2022-01-22 |     |              4 |               2 |
-|------------+-----+----------------+-----------------|
-
-* When done
-I have published my works on every weekday for 100 days.
+* Horizon
+I see that I have published 100 posts on EVM Explore.
 
 * Loops
-** DONE
+** DONE Past loops
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-|------+------+--------------------------------------+---------+-------+-------|
-| Loop | Type | Output                               | Explore | Craft | Drill |
-|------+------+--------------------------------------+---------+-------+-------|
-|    1 | A    | Project, milestones, and L02 defined | [x]     | [x]   | [-]   |
-|------+------+--------------------------------------+---------+-------+-------|
-|    2 | A    | Create SHOW loop system              | [x]     | [x]   | [-]   |
-|      | -->  | SHOW loop snippets                   |         |       |       |
-|------+------+--------------------------------------+---------+-------+-------|
+|------+--------+--------------------------------------+---------+-------+------+-------|
+| Loop | Output | Topic                                | Explore | Craft | Note | Drill |
+|------+--------+--------------------------------------+---------+-------+------+-------|
+|    1 | A      | Project, milestones, and L02 defined | [x]     | [x]   |      | [-]   |
+|------+--------+--------------------------------------+---------+-------+------+-------|
+|    2 | A      | Create SHOW loop system              | [x]     | [x]   |      | [-]   |
+|      | -->    | SHOW loop snippets                   |         |       |      |       |
+|------+--------+--------------------------------------+---------+-------+------+-------|
+|    3 | A      | Find disappearing text mode          | [x]     | [x]   |      | [-]   |
+|    4 | D      | Config disappearing text mode        | [x]     | [x]   |      | [-]   |
+|------+--------+--------------------------------------+---------+-------+------+-------|
+|    5 | W-A    | Find out how to set up a hugo site   | [x]     | [x]   |      | [x]   |
+|    6 | W-A    | Decide which theme to try first      | [x]     | [x]   |      | [-]   |
+|    7 | W-D    | Set up hugo site locally             | [x]     | [x]   |      | [x]   |
+|    8 | A      | Publish evmexplore.com               | [x]     | [x]   |      | [-]   |
+|------+--------+--------------------------------------+---------+-------+------+-------|
 
-** TODO
-|------+------+------------------------------------+---------+-------+-------|
-| Loop | Type | Output                             | Explore | Craft | Drill |
-|------+------+------------------------------------+---------+-------+-------|
-|    3 | A    | Find disappearing text mode        | [x]     | [x]   | [-]   |
-|    4 | D    | Config disappearing text mode      | [x]     | [x]   | [-]   |
-|------+------+------------------------------------+---------+-------+-------|
-|    5 | W-A  | Find out how to set up a hugo site | [x]     | [x]   | [x]   |
-|    6 | W-A  | Decide which theme to try first    | [x]     | [x]   | [-]   |
-|    7 | W-D  | Set up hugo site locally           | [x]     | [x]   | [x]   |
-|    8 | A    | Publish evmexplore.com             | [x]     | [x]   | [-]   |
-|------+------+------------------------------------+---------+-------+-------|
-|    9 | A    | Draft: piece 1                     | [ ]     | [ ]   | [ ]   |
-|   10 | B    | Publish: piece 1                   | [ ]     | [ ]   | [ ]   |
-|   11 | -->  | Piece 1                            |         |       |       |
-|------+------+------------------------------------+---------+-------+-------|
-|   12 | ...  | ...                                | ...     | ...   | ...   |
-|------+------+------------------------------------+---------+-------+-------|
-|   13 | A    | Draft: piece 100                   | [ ]     | [ ]   | [ ]   |
-|   14 | B    | Publish: piece 100                 | [ ]     | [ ]   | [ ]   |
-|   15 | -->  | Piece 100                          |         |       |       |
-|------+------+------------------------------------+---------+-------+-------|
-#+tblfm: $1=@#+1
+
+** TODO Next loops
+|------+-----------------+------------------+---------|
+| Loop | Output          | Topic            | Status  |
+|------+-----------------+------------------+---------|
+|    9 | writing-persona | Post 1 persona   | [x]     |
+|   10 | writing-story   | Post 1 story     | [x]     |
+|   11 | writing-pyramid | Post 1 pyramid   | [ ]     |
+|   12 | writing-new     | Post 1 new       | [ ]     |
+|   13 | writing-revised | Post 1 revised   | [ ]     |
+|   14 | writing-live    | Post 1 live      | [ ]     |
+|   15 | -->             |                  |         |
+|------+-----------------+------------------+---------|
+|   16 | ...             |                  | [ ]     |
+|   17 | -->             |                  |         |
+|------+-----------------+------------------+---------|
+|   18 | writing-persona | Post 100 persona | [ ]     |
+|   19 | writing-story   | Post 100 story   | [ ]     |
+|   20 | writing-pyramid | Post 100 pyramid | [ ]     |
+|   21 | writing-new     | Post 100 new     | [ ]     |
+|   22 | writing-revised | Post 100 revised | [ ]     |
+|   23 | writing-live    | Post 100 live    | [ ]     |
+|   24 | -->             | *POST 100*         |         |
+|------+-----------------+------------------+---------|
+#+tblfm: $1=@#+7
+

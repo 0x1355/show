@@ -1,0 +1,84 @@
+#+TITLE: Persona: Henry
+#+OUTPUT: Persona
+#+STARTUP: showall
+
+* DONE EXPLORE
+CLOSED: [2022-02-25 vr 09:14]
+:PROPERTIES:
+:VISIBILITY: children
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:14]
+:END:
+
+** DONE What is the name of this persona?
+CLOSED: [2022-02-25 vr 09:10]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:10]
+- State "TODO"       from              [2022-02-25 vr 09:10]
+- State "DONE"       from "TODO"       [2022-02-24 do 11:55]
+:END:
+Henry.
+
+** DONE How do they look like in pixels?
+CLOSED: [2022-02-25 vr 09:11]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:11]
+- State "TODO"       from              [2022-02-25 vr 09:11]
+:END:
+
+[[/home/less/evm-explore/loops/images/personas/henry.png]]
+
+** DONE How does they daily life look like?
+CLOSED: [2022-02-25 vr 09:01]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:01]
+- State "TODO"       from              [2022-02-25 vr 09:00]
+:END:
+Henry works fulltime as a data analyst in a tech company. He is earning a decent
+salary and understands the basic concepts in data and software.
+
+Alongside his day job, Henry has a small crypto portfolio and is considering to
+find a job in web3. He spend about 30 minutes a day reading information about
+crypto and web3. 
+
+** NEXT What is their situation?
+:LOGBOOK:
+- State "NEXT"       from "DONE"       [2022-02-25 vr 09:14]
+- State "DONE"       from "TODO"       [2022-02-24 do 12:14]
+:END:
+
+** NEXT What don't they like about the situation (R1)?
+:LOGBOOK:
+- State "NEXT"       from "DONE"       [2022-02-25 vr 09:14]
+- State "DONE"       from "TODO"       [2022-02-24 do 12:20]
+:END:
+Henry came across XXX, which is an EVM-based dapp. Because he is interested to
+use it, he started doing research in his spare time. But he is overwhelmed by
+all the technical terms, hypes, memes, colorful personalities, and scammy
+messages around XXX. After a couple of hours, he felt that he is still not
+confident about how XXX really works.
+
+** NEXT What do they want instead (R2)?
+:LOGBOOK:
+- State "NEXT"       from "DONE"       [2022-02-25 vr 09:14]
+- State "DONE"       from "TODO"       [2022-02-24 do 12:27]
+:END:
+He wants a trustworthy information source from whom he can gain reliable and
+intuitive understanding on how XXX really works.
+
+
+* TODO CRAFT --> Persona (permanent note)
+
+
+* PASSED NOTE --> Fleeting notes
+:LOGBOOK:
+- State "PASSED"     from "TODO"       [2022-02-25 vr 09:14]
+:END:
+
+
+* PASSED DRILL
+:LOGBOOK:
+- State "PASSED"     from "TODO"       [2022-02-25 vr 09:14]
+:END:
+

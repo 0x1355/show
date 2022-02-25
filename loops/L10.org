@@ -1,0 +1,101 @@
+#+TITLE: loop name
+#+OUTPUT: Story
+#+STARTUP: showall
+
+* DONE EXPLORE
+CLOSED: [2022-02-25 vr 09:56]
+:PROPERTIES:
+:VISIBILITY: children
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:56]
+:END:
+
+** DONE For which persona is the story about?
+CLOSED: [2022-02-25 vr 09:24]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:24]
+:END:
+
+
+
+[[/home/less/org-roam/images/personas/henry.png]]
+
+Henry works fulltime as a data analyst in a tech company. He is earning a decent
+salary and understands the basic concepts in data and software.
+
+Alongside his day job, Henry has a small crypto portfolio and is considering to
+find a job in web3. He spend about an hour a day reading information about
+crypto and web3.
+
+
+** DONE What situation are they in?
+CLOSED: [2022-02-25 vr 09:38]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:38]
+:END:
+Henry put down his phone and yawned. He looks at the clock. two hours passed since
+he started reading about crypto and web3. But it seems that the more he reads,
+the less he understands.
+
+He signed. Why? Just this morning at work, it took him less than two hours to
+grasp the basics of D3.js. By the end of the afternoon he already made a
+prototype chart with it. But this crypto thing is just too confusing. 
+
+
+** DONE What don't they like about the situation?
+CLOSED: [2022-02-25 vr 09:48]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:48]
+:END:
+He feels that he can't find a time-effective approach to gather reliable
+information about how something actually works in crypto. He has tried the
+following but none satisfies him:
+
+|--------------------+----------------------------------------------------------|
+| Info source        | Not happy about                                          |
+|--------------------+----------------------------------------------------------|
+| Crypto twitter     | Too many memes and shitposts. High noise-to-signal ratio |
+| Crypto YouTube     | Too high-level, ambiguous, and generic                   |
+| Project whitepaper | Too abstrat or too much math                             |
+| Project github     | Can't read code                                          |
+| Project Discord    | Even higher noise-to-signal ratio                        |
+|--------------------+----------------------------------------------------------|
+
+
+** DONE What do they want instead?
+CLOSED: [2022-02-25 vr 09:55]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:55]
+:END:
+Henry wants to have a source where he can get crypto related information that:
+1. Explains things simply and intuitively
+2. Answers his specific questions
+3. Helps him make meaningful decisions
+4. Doesn't require reading code or math formulas
+
+** DONE To get that, what price would they need to pay?
+CLOSED: [2022-02-25 vr 09:56]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-25 vr 09:56]
+:END:
+He is willing to accept a new belief of Black Box thinking. 
+
+
+* PASSED CRAFT --> Story
+:LOGBOOK:
+- State "PASSED"     from "TODO"       [2022-02-25 vr 09:56]
+:END:
+(Done above)
+
+* PASSED NOTE --> Fleeting notes
+:LOGBOOK:
+- State "PASSED"     from "TODO"       [2022-02-25 vr 09:56]
+:END:
+
+
+* PASSED DRILL
+:LOGBOOK:
+- State "PASSED"     from "TODO"       [2022-02-25 vr 09:56]
+:END:
+
