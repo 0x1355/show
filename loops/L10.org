@@ -1,4 +1,4 @@
-#+TITLE: loop name
+#+TITLE: Post 1 story
 #+OUTPUT: Story
 #+STARTUP: showall
 
@@ -73,6 +73,7 @@ Henry wants to have a source where he can get crypto related information that:
 2. Answers his specific questions
 3. Helps him make meaningful decisions
 4. Doesn't require reading code or math formulas
+
 
 ** DONE To get that, what price would they need to pay?
 CLOSED: [2022-02-25 vr 09:56]

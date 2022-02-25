@@ -9,22 +9,22 @@ I see that I have published 100 posts on EVM Explore.
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
-|------+--------+--------------------------------------+---------+-------+------+-------|
-| Loop | Output | Topic                                | Explore | Craft | Note | Drill |
-|------+--------+--------------------------------------+---------+-------+------+-------|
-|    1 | A      | Project, milestones, and L02 defined | [x]     | [x]   |      | [-]   |
-|------+--------+--------------------------------------+---------+-------+------+-------|
-|    2 | A      | Create SHOW loop system              | [x]     | [x]   |      | [-]   |
-|      | -->    | SHOW loop snippets                   |         |       |      |       |
-|------+--------+--------------------------------------+---------+-------+------+-------|
-|    3 | A      | Find disappearing text mode          | [x]     | [x]   |      | [-]   |
-|    4 | D      | Config disappearing text mode        | [x]     | [x]   |      | [-]   |
-|------+--------+--------------------------------------+---------+-------+------+-------|
-|    5 | W-A    | Find out how to set up a hugo site   | [x]     | [x]   |      | [x]   |
-|    6 | W-A    | Decide which theme to try first      | [x]     | [x]   |      | [-]   |
-|    7 | W-D    | Set up hugo site locally             | [x]     | [x]   |      | [x]   |
-|    8 | A      | Publish evmexplore.com               | [x]     | [x]   |      | [-]   |
-|------+--------+--------------------------------------+---------+-------+------+-------|
+|------+--------+--------------------------------------+--------|
+| Loop | Output | Topic                                | Status |
+|------+--------+--------------------------------------+--------|
+|    1 | A      | Project, milestones, and L02 defined | [x]    |
+|------+--------+--------------------------------------+--------|
+|    2 | A      | Create SHOW loop system              | [x]    |
+|      | -->    | SHOW loop snippets                   |        |
+|------+--------+--------------------------------------+--------|
+|    3 | A      | Find disappearing text mode          | [x]    |
+|    4 | D      | Config disappearing text mode        | [x]    |
+|------+--------+--------------------------------------+--------|
+|    5 | W-A    | Find out how to set up a hugo site   | [x]    |
+|    6 | W-A    | Decide which theme to try first      | [x]    |
+|    7 | W-D    | Set up hugo site locally             | [x]    |
+|    8 | A      | Publish evmexplore.com               | [x]    |
+|------+--------+--------------------------------------+--------|
 
 
 ** TODO Next loops
