@@ -1,59 +1,61 @@
-baseURL = 'http://evmexplore.com/'
-languageCode = 'en-us'
-
-theme = "hello-friend"
-paginate = 10
+baseurl      = "http://moneydatareality.com/"
+title        = "money data reality"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
 
 [params]
-  # dir name of your blog content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
-  # "light" or "dark"
-  defaultTheme = "light"
+  # Subtitle for home
+  homeSubtitle = "Simple explanations of how crypto actually works"
 
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = true
 
-  # Show reading time in minutes for posts
-  showReadingTime = true
+  # Enable sharing buttons, if you like
+  enableSharingButtons = false
 
-  # Show table of contents at the top of your posts (defaults to false)
-  # Alternatively, add this param to post front matter for specific posts
-  # toc = true
+  # Metadata mostly used in document's head
+  description = "Simple explanations of how crypto actually works through the lense of money, data and reality."
+  keywords = "crypto, ethereum, web3, smart contract, evm, L1 chain"
 
-  # Show full page content in RSS feed items
-  #(default is Description or Summary metadata in the front matter)
-  # rssFullText = true
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
 [languages]
   [languages.en]
-    title = "EVM Explore"
-    subtitle = "Notes on stiching transaction data and poking smart contracts on Ethereum Virtual Machines"
-    keywords = "ethereum smart_contract evm mainnet"
-    copyright = "Copyright by 0x1355"
-    menuMore = "Show more"
-    writtenBy = ""
-    readMore = "Read more"
+    title = "money data reality"
+    subtitle = "Crypto for analytical people"
+    keywords = "crypto, ethereum, web3, smart contract, evm, L1 chain"	
+    copyright = 'Copyrighted 2022 by @0x1355'
     readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
-    # leave empty to disable, enter display text to enable
-    # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "evm explore"
+      logoText = "money data reality"
       logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+  # And you can even create generic menu
+   [[menu.main]]
+    identifier = "start"
+    name       = "Start Here"
+    url        = "/start"
+
+   [[menu.main]]
+    identifier = "articles"
+    name       = "Articles"
+    url        = "/posts"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
