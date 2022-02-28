@@ -3,4 +3,4 @@
 	url = https://github.com/panr/hugo-theme-hello-friend.git
 [submodule "site/public"]
 	path = site/public
-	url = git@github.com:0x1355/evm-explore-public.git
+	url = git@github.com:0x1355/money-data-reality-public.git

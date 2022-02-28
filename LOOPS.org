@@ -10,45 +10,45 @@ I see that I have published 100 posts on EVM Explore.
 :VISIBILITY: folded
 :END:
 |------+--------+--------------------------------------+--------|
-| Loop | Output | Topic                                | Status |
+| Loop | Post # | Output                               | Status |
 |------+--------+--------------------------------------+--------|
-|    1 | A      | Project, milestones, and L02 defined | [x]    |
+|    1 |        | Project, milestones, and L02 defined | [x]    |
 |------+--------+--------------------------------------+--------|
-|    2 | A      | Create SHOW loop system              | [x]    |
+|    2 |        | Create SHOW loop system              | [x]    |
 |      | -->    | SHOW loop snippets                   |        |
 |------+--------+--------------------------------------+--------|
-|    3 | A      | Find disappearing text mode          | [x]    |
-|    4 | D      | Config disappearing text mode        | [x]    |
+|    3 |        | Find disappearing text mode          | [x]    |
+|    4 |        | Config disappearing text mode        | [x]    |
 |------+--------+--------------------------------------+--------|
-|    5 | W-A    | Find out how to set up a hugo site   | [x]    |
-|    6 | W-A    | Decide which theme to try first      | [x]    |
-|    7 | W-D    | Set up hugo site locally             | [x]    |
-|    8 | A      | Publish evmexplore.com               | [x]    |
+|    5 |        | Find out how to set up a hugo site   | [x]    |
+|    6 |        | Decide which theme to try first      | [x]    |
+|    7 |        | Set up hugo site locally             | [x]    |
+|    8 |        | Publish evmexplore.com               | [x]    |
 |------+--------+--------------------------------------+--------|
 
 
 ** TODO Next loops
-|------+-----------------+------------------+---------|
-| Loop | Output          | Topic            | Status  |
-|------+-----------------+------------------+---------|
-|    9 | writing-persona | Post 1 persona   | [x]     |
-|   10 | writing-story   | Post 1 story     | [x]     |
-|   11 | writing-pyramid | Post 1 pyramid   | [ ]     |
-|   12 | writing-new     | Post 1 new       | [ ]     |
-|   13 | writing-revised | Post 1 revised   | [ ]     |
-|   14 | writing-live    | Post 1 live      | [ ]     |
-|   15 | -->             |                  |         |
-|------+-----------------+------------------+---------|
-|   16 | ...             |                  | [ ]     |
-|   17 | -->             |                  |         |
-|------+-----------------+------------------+---------|
-|   18 | writing-persona | Post 100 persona | [ ]     |
-|   19 | writing-story   | Post 100 story   | [ ]     |
-|   20 | writing-pyramid | Post 100 pyramid | [ ]     |
-|   21 | writing-new     | Post 100 new     | [ ]     |
-|   22 | writing-revised | Post 100 revised | [ ]     |
-|   23 | writing-live    | Post 100 live    | [ ]     |
-|   24 | -->             | *POST 100*         |         |
-|------+-----------------+------------------+---------|
+|------+--------+-----------------+--------|
+| Loop | Post # | Output          | Status |
+|------+--------+-----------------+--------|
+|    9 |      1 | writing-persona | [x]    |
+|   10 |      1 | writing-story   | [x]    |
+|   11 |      1 | writing-pyramid | [ ]    |
+|   12 |      1 | writing-new     | [ ]    |
+|   13 |      1 | writing-revised | [ ]    |
+|   14 |      1 | writing-live    | [ ]    |
+|   15 |        | -->             |        |
+|------+--------+-----------------+--------|
+|   16 |        | ...             | [ ]    |
+|   17 |        | -->             |        |
+|------+--------+-----------------+--------|
+|   18 |    100 | writing-persona | [ ]    |
+|   19 |    100 | writing-story   | [ ]    |
+|   20 |    100 | writing-pyramid | [ ]    |
+|   21 |    100 | writing-new     | [ ]    |
+|   22 |    100 | writing-revised | [ ]    |
+|   23 |    100 | writing-live    | [ ]    |
+|   24 |    100 | -->             |        |
+|------+--------+-----------------+--------|
 #+tblfm: $1=@#+7
 
