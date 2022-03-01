@@ -30,8 +30,8 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "money data reality"
-    subtitle = "Crypto for analytical people"
+    title = "Money Data Reality"
+    subtitle = "Simple explanations of how crypto actually works"
     keywords = "crypto, ethereum, web3, smart contract, evm, L1 chain"	
     copyright = 'Copyrighted 2022 by @0x1355'
     readOtherPosts = "Read other posts"
@@ -51,8 +51,8 @@ paginate     = 10
     url        = "/start"
 
    [[menu.main]]
-    identifier = "articles"
-    name       = "Articles"
+    identifier = "posts"
+    name       = "Posts"
     url        = "/posts"
 
   [[menu.main]]
