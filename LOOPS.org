@@ -38,22 +38,28 @@ I see that I have published 100 posts on Money Data Reality.
 |   12 |        | Make http and apex domain work | [x]    |
 |   13 |        | Make wildcard subdomain work   | [x]    |
 |------+--------+--------------------------------+--------|
-|   12 |      1 | writing-pyramid                | [ ]    |
-|   13 |      1 | writing-new                    | [ ]    |
-|   14 |      1 | writing-revised                | [ ]    |
-|   15 |      1 | writing-live                   | [ ]    |
-|   16 |        | -->                            |        |
+|   14 |        | Decision: writing loops        | [x]    |
+|   15 |        | Read about root questions      | [ ]    |
 |------+--------+--------------------------------+--------|
-|   17 |        | ...                            | [ ]    |
-|   18 |        | -->                            |        |
+|   16 |  About | root question                  | [ ]    |
+|   17 |  About | brach question                 | [ ]    |
+|   18 |  About | tweet                          | [ ]    |
+|   19 |  About | post                           | [ ]    |
 |------+--------+--------------------------------+--------|
-|   19 |    100 | writing-persona                | [ ]    |
-|   20 |    100 | writing-story                  | [ ]    |
-|   21 |    100 | writing-pyramid                | [ ]    |
-|   22 |    100 | writing-new                    | [ ]    |
-|   23 |    100 | writing-revised                | [ ]    |
-|   24 |    100 | writing-live                   | [ ]    |
-|   25 |    100 | -->                            |        |
+|   20 |      1 | writing-pyramid                | [ ]    |
+|   21 |      1 | writing-new                    | [ ]    |
+|   22 |      1 | writing-revised                | [ ]    |
+|   23 |      1 | writing-live                   | [ ]    |
+|   24 |        | -->                            |        |
+|------+--------+--------------------------------+--------|
+|   25 |        | ...                            | [ ]    |
+|   26 |        | -->                            |        |
+|------+--------+--------------------------------+--------|
+|   27 |        | root question                  | [ ]    |
+|   28 |        | brach question                 | [ ]    |
+|   29 |        | tweet                          | [ ]    |
+|   30 |        | post                           | [ ]    |
+|   31 |        | --> DONE                       |        |
 |------+--------+--------------------------------+--------|
 #+tblfm: $1=@#+7
 

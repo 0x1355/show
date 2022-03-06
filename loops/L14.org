@@ -1,0 +1,113 @@
+#+TITLE: MDR loops
+#+OUTPUT: Decision
+#+STARTUP: showall
+
+* TODO EXPLORE
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+** DONE What is the decision?
+CLOSED: [2022-03-06 zo 04:18]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:18]
+:END:
+What is the process to generate MDR content and what are the loops?
+
+** DONE What is the context?
+CLOSED: [2022-03-06 zo 04:18]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:18]
+:END:
+I have define the positioning of MDR and decided to publish a MDR post weekly
+and a tweet daily. But I don't have any process for that. 
+
+** DONE How do I expect the decision to impact me?
+CLOSED: [2022-03-06 zo 04:18]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:18]
+:END:
+If I have designed the progress well, I need zero preparation to start working on
+a post or tweet. This will help me avoid procrastination and writer's block.
+
+** DONE How do I expect the decision to impact the world?
+CLOSED: [2022-03-06 zo 04:18]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:18]
+:END:
+My audience will get more frequent updates and higher quality content
+
+** DONE What are the key decision factors?
+CLOSED: [2022-03-06 zo 04:24]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:24]
+:END:
+1. Each loop fits in one block
+2. Each loop ends up with something tangible
+3. Only create things truely needed. No waste. 
+4. Easily leads to tweets and posts as output
+
+** DONE What are my options?
+CLOSED: [2022-03-06 zo 04:41]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:41]
+:END:
+|--------------+----------------+-------------------|
+| Story-based  | Pyramind-based | *Tree of questions* |
+|--------------+----------------+-------------------|
+| persona      | user question  | root question     |
+| story        | pyramid        | branch question   |
+| first draft  | sub pyramid    | branch question   |
+| second draft | first draft    | branch question   |
+| ...          | ...            | tweet             |
+| post         | post           | ...               |
+| tweet        | tweet          | post              |
+|--------------+----------------+-------------------|
+
+** DONE Which option do I go for and why?
+CLOSED: [2022-03-06 zo 04:45]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:45]
+:END:
+Tree of questions:
+1. Each question can fit in one loop
+2. Each loop ends up with either a new loop, a tweet, or a post
+3. No waste: no intermediate artifacts like persona etc
+4. Easy to do because that is how I do EDA anyways
+
+** DONE What are the real-world implications?
+CLOSED: [2022-03-06 zo 04:56]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:56]
+:END:
+*** DONE Plan About page writing with this approach
+CLOSED: [2022-03-06 zo 04:50]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:50]
+:END:
+*** DONE Plan to read about root question in Pyramind Principles
+CLOSED: [2022-03-06 zo 04:51]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:51]
+:END:
+*** DONE Update the decision snippet
+CLOSED: [2022-03-06 zo 04:56]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 04:56]
+- State "TODO"       from              [2022-03-06 zo 04:48]
+:END:
+
+
+* PASS CRAFT --> Permanent note
+:LOGBOOK:
+- State "PASS"       from "TODO"       [2022-03-06 zo 04:56]
+:END:
+
+* PASS NOTE --> Fleeting notes
+:LOGBOOK:
+- State "PASS"       from "TODO"       [2022-03-06 zo 04:56]
+:END:
+
+* PASS DRILL
+:LOGBOOK:
+- State "PASS"       from "TODO"       [2022-03-06 zo 04:56]
+:END:
