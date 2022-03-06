@@ -40,7 +40,7 @@ I see that I publish MDR posts weekly and tweets daily
 |------+-------+--------------------------------+--------|
 |   14 |       | Decision: writing loops        | [x]    |
 |   15 |       | Read about root questions      | [x]    |
-|   16 |       | Make question snippets         | [ ]    |
+|   16 |       | Make question snippets         | [x]    |
 |   17 |       | Plan tree-based structure      | [ ]    |
 |------+-------+--------------------------------+--------|
 |   18 | About | root question                  | [ ]    |
