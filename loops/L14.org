@@ -2,9 +2,13 @@
 #+OUTPUT: Decision
 #+STARTUP: showall
 
-* TODO EXPLORE
+* DONE EXPLORE
+CLOSED: [2022-03-06 zo 05:32]
 :PROPERTIES:
 :VISIBILITY: content
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-06 zo 05:32]
 :END:
 ** DONE What is the decision?
 CLOSED: [2022-03-06 zo 04:18]

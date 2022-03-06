@@ -2,7 +2,7 @@
 #+STARTUP: showall
 
 * Horizon
-I see that I have published 100 posts on Money Data Reality.
+I see that I publish MDR posts weekly and tweets daily
 
 * Loops
 ** DONE Past loops
@@ -28,38 +28,40 @@ I see that I have published 100 posts on Money Data Reality.
 
 
 ** TODO Next loops
-|------+--------+--------------------------------+--------|
-| Loop | Post # | Output                         | Status |
-|------+--------+--------------------------------+--------|
-|    9 |      1 | writing-persona                | [x]    |
-|   10 |      1 | writing-story                  | [x]    |
-|------+--------+--------------------------------+--------|
-|   11 |        | Host on DigitalOcean           | [x]    |
-|   12 |        | Make http and apex domain work | [x]    |
-|   13 |        | Make wildcard subdomain work   | [x]    |
-|------+--------+--------------------------------+--------|
-|   14 |        | Decision: writing loops        | [x]    |
-|   15 |        | Read about root questions      | [ ]    |
-|------+--------+--------------------------------+--------|
-|   16 |  About | root question                  | [ ]    |
-|   17 |  About | brach question                 | [ ]    |
-|   18 |  About | tweet                          | [ ]    |
-|   19 |  About | post                           | [ ]    |
-|------+--------+--------------------------------+--------|
-|   20 |      1 | writing-pyramid                | [ ]    |
-|   21 |      1 | writing-new                    | [ ]    |
-|   22 |      1 | writing-revised                | [ ]    |
-|   23 |      1 | writing-live                   | [ ]    |
-|   24 |        | -->                            |        |
-|------+--------+--------------------------------+--------|
-|   25 |        | ...                            | [ ]    |
-|   26 |        | -->                            |        |
-|------+--------+--------------------------------+--------|
-|   27 |        | root question                  | [ ]    |
-|   28 |        | brach question                 | [ ]    |
-|   29 |        | tweet                          | [ ]    |
-|   30 |        | post                           | [ ]    |
-|   31 |        | --> DONE                       |        |
-|------+--------+--------------------------------+--------|
+|------+-------+--------------------------------+--------|
+| Loop | Tree  | Output                         | Status |
+|------+-------+--------------------------------+--------|
+|    9 |       | writing-persona                | [x]    |
+|   10 |       | writing-story                  | [x]    |
+|------+-------+--------------------------------+--------|
+|   11 |       | Host on DigitalOcean           | [x]    |
+|   12 |       | Make http and apex domain work | [x]    |
+|   13 |       | Make wildcard subdomain work   | [x]    |
+|------+-------+--------------------------------+--------|
+|   14 |       | Decision: writing loops        | [x]    |
+|   15 |       | Read about root questions      | [x]    |
+|   16 |       | Make question snippets         | [ ]    |
+|   17 |       | Plan tree-based structure      | [ ]    |
+|------+-------+--------------------------------+--------|
+|   18 | About | root question                  | [ ]    |
+|   19 | About | brach question                 | [ ]    |
+|   20 | About | tweet                          | [ ]    |
+|   21 | About | post                           | [ ]    |
+|------+-------+--------------------------------+--------|
+|   22 |       | writing-pyramid                | [ ]    |
+|   23 |       | writing-new                    | [ ]    |
+|   24 |       | writing-revised                | [ ]    |
+|   25 |       | writing-live                   | [ ]    |
+|   26 |       | -->                            |        |
+|------+-------+--------------------------------+--------|
+|   27 |       | ...                            | [ ]    |
+|   28 |       | -->                            |        |
+|------+-------+--------------------------------+--------|
+|   29 |       | root question                  | [ ]    |
+|   30 |       | brach question                 | [ ]    |
+|   31 |       | tweet                          | [ ]    |
+|   32 |       | post                           | [ ]    |
+|   33 |       | --> DONE                       |        |
+|------+-------+--------------------------------+--------|
 #+tblfm: $1=@#+7
 
