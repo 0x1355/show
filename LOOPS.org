@@ -10,7 +10,7 @@ I see that I publish MDR posts weekly and tweets daily
 :VISIBILITY: folded
 :END:
 |------+--------+--------------------------------------+--------|
-| Loop | Post # | Output                               | Status |
+| Loop | Output | Tree                                 | Status |
 |------+--------+--------------------------------------+--------|
 |    1 |        | Project, milestones, and L02 defined | [x]    |
 |------+--------+--------------------------------------+--------|
@@ -25,43 +25,42 @@ I see that I publish MDR posts weekly and tweets daily
 |    7 |        | Set up hugo site locally             | [x]    |
 |    8 |        | Publish evmexplore.com               | [x]    |
 |------+--------+--------------------------------------+--------|
-
+|    9 |        | writing-persona                      | [x]    |
+|   10 |        | writing-story                        | [x]    |
+|------+--------+--------------------------------------+--------|
+|   11 |        | Host on DigitalOcean                 | [x]    |
+|   12 |        | Make http and apex domain work       | [x]    |
+|   13 |        | Make wildcard subdomain work         | [x]    |
+|------+--------+--------------------------------------+--------|
+|   14 |        | Decision: writing loops              | [x]    |
+|   15 |        | Read about root questions            | [x]    |
+|   16 |        | Make question snippets               | [x]    |
+|   17 |        | Plan tree-based structure            | [x]    |
+|------+--------+--------------------------------------+--------|
 
 ** TODO Next loops
-|------+-------+--------------------------------+--------|
-| Loop | Tree  | Output                         | Status |
-|------+-------+--------------------------------+--------|
-|    9 |       | writing-persona                | [x]    |
-|   10 |       | writing-story                  | [x]    |
-|------+-------+--------------------------------+--------|
-|   11 |       | Host on DigitalOcean           | [x]    |
-|   12 |       | Make http and apex domain work | [x]    |
-|   13 |       | Make wildcard subdomain work   | [x]    |
-|------+-------+--------------------------------+--------|
-|   14 |       | Decision: writing loops        | [x]    |
-|   15 |       | Read about root questions      | [x]    |
-|   16 |       | Make question snippets         | [x]    |
-|   17 |       | Plan tree-based structure      | [x]    |
-|------+-------+--------------------------------+--------|
-|   18 | About | root question                  | [ ]    |
-|   19 | About | brach question                 | [ ]    |
-|   20 | About | tweet                          | [ ]    |
-|   21 | About | post                           | [ ]    |
-|------+-------+--------------------------------+--------|
-|   22 |       | writing-pyramid                | [ ]    |
-|   23 |       | writing-new                    | [ ]    |
-|   24 |       | writing-revised                | [ ]    |
-|   25 |       | writing-live                   | [ ]    |
-|   26 |       | -->                            |        |
-|------+-------+--------------------------------+--------|
-|   27 |       | ...                            | [ ]    |
-|   28 |       | -->                            |        |
-|------+-------+--------------------------------+--------|
-|   29 |       | root question                  | [ ]    |
-|   30 |       | brach question                 | [ ]    |
-|   31 |       | tweet                          | [ ]    |
-|   32 |       | post                           | [ ]    |
-|   33 |       | --> DONE                       |        |
-|------+-------+--------------------------------+--------|
-#+tblfm: $1=@#+7
+|------+--------+---------------------------+--------|
+| Loop | Output | Tree                      | Status |
+|------+--------+---------------------------+--------|
+|   18 | root   | About                     | [x]    |
+|   19 | branch | MDR is extremely valuable | [ ]    |
+|   20 | About  | tweet                     | [ ]    |
+|   21 | post   | About                     | [ ]    |
+|------+--------+---------------------------+--------|
+|   22 |        | writing-pyramid           | [ ]    |
+|   23 |        | writing-new               | [ ]    |
+|   24 |        | writing-revised           | [ ]    |
+|   25 |        | writing-live              | [ ]    |
+|   26 |        | -->                       |        |
+|------+--------+---------------------------+--------|
+|   27 |        | ...                       | [ ]    |
+|   28 |        | -->                       |        |
+|------+--------+---------------------------+--------|
+|   29 |        | root question             | [ ]    |
+|   30 |        | brach question            | [ ]    |
+|   31 |        | tweet                     | [ ]    |
+|   32 |        | post                      | [ ]    |
+|   33 |        | --> DONE                  |        |
+|------+--------+---------------------------+--------|
+#+tblfm: $1=@#+16
 

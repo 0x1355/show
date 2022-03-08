@@ -1,0 +1,120 @@
+#+TITLE: About
+#+OUTPUT: Root question
+#+STARTUP: showall
+
+* TODO EXPLORE
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+** TODO What is the situation?
+*** DONE What is the starting point?
+CLOSED: [2022-03-08 di 03:46]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 03:46]
+:END:
+The user comes to MDR for the first time. He finds the landing page content
+relevant to what he is looking for.
+
+*** DONE What is the disturbing event?
+CLOSED: [2022-03-08 di 03:48]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 03:48]
+:END:
+But the he asks himself: Should I spend more time reading MDR content?
+
+** DONE What is R1 (undesired result)?
+CLOSED: [2022-03-08 di 03:48]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 03:48]
+:END:
+Not sure if reading more MDR content is worth the time 
+
+** DONE What is R2 (desired result)?
+CLOSED: [2022-03-08 di 03:50]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 03:50]
+:END:
+Know how much time to spend on reading MDR. 
+
+** PASS Is there another layer of R1 and R2?
+:LOGBOOK:
+- State "PASS"       from "TODO"       [2022-03-08 di 03:50]
+:END:
+
+
+** DONE What is the reader's question?
+CLOSED: [2022-03-08 di 03:50]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 03:50]
+:END:
+Should I spend more time reading MDR content?
+
+
+** DONE What are the next branches on the Tree of Question?
+CLOSED: [2022-03-08 di 04:05]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 04:05]
+:END:
+#+BEGIN_SRC dot :file L18.svg :cmdline -Tsvg
+graph {
+    bgcolor=ivory
+    fontname="Fira Code"
+    fontsize=13
+    pad="0.8, 0.6"
+    node [shape=box, fontname="Fira Code", fontsize=11, margin="0.26, 0.1"]
+    edge [fontname="Fira Code", fontsize=11]
+    
+    root [label="Should I spend more time reading MDR content?"]
+    root -- b1, b2, b3
+
+    b1 [label="MDR content is extremely valuable"]
+    b2 [label="MDR content is trustworthy"]
+    b3 [label="MDR content is easy to read"]
+    
+}
+#+END_SRC
+
+#+RESULTS:
+[[file:L18.svg]]
+
+
+
+* DONE CRAFT --> Root question and the next branches
+CLOSED: [2022-03-08 di 04:07]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 04:07]
+:END:
+#+BEGIN_SRC dot :file L18.svg :cmdline -Tsvg
+graph {
+    bgcolor=ivory
+    fontname="Fira Code"
+    fontsize=13
+    pad="0.8, 0.6"
+    node [shape=box, fontname="Fira Code", fontsize=11, margin="0.26, 0.1"]
+    edge [fontname="Fira Code", fontsize=11]
+    
+    root [label="Should I spend more time reading MDR content?"]
+    root -- b1, b2, b3
+
+    b1 [label="MDR content is extremely valuable"]
+    b2 [label="MDR content is trustworthy"]
+    b3 [label="MDR content is easy to read"]
+    
+}
+#+END_SRC
+
+#+RESULTS:
+[[file:L18.svg]]
+
+
+* PASS NOTE --> Fleeting notes
+:LOGBOOK:
+- State "PASS"       from "TODO"       [2022-03-08 di 04:07]
+:END:
+
+
+* DONE DRILL
+CLOSED: [2022-03-08 di 04:10]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 04:10]
+:END:
