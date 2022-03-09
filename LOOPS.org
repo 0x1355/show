@@ -45,7 +45,7 @@ I see that I publish MDR tweets daily and posts weekly.
 |   18 | root   | About                          | [x]    |
 |   19 | branch | What do I get from reading MDR | [x]    |
 |   20 | md     | about.md config                | [x]    |
-|   21 | root   | Root (new text format)         | [ ]    |
+|   21 | root   | Root (new text format)         | [x]    |
 |   22 | About  | tweet                          | [ ]    |
 |   23 | post   | About                          | [ ]    |
 |------+--------+--------------------------------+--------|
