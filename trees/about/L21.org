@@ -1,0 +1,99 @@
+#+TITLE: Root (new text format)
+#+OUTPUT: Root question
+#+STARTUP: showall
+
+* DONE EXPLORE
+CLOSED: [2022-03-09 wo 07:19]
+:PROPERTIES:
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 07:19]
+:END:
+** DONE What is the Situation?
+CLOSED: [2022-03-09 wo 06:43]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:43]
+:END:
+*** DONE What is the starting point?
+CLOSED: [2022-03-09 wo 06:43]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:43]
+:END:
+The user comes to MDR for the first time. He finds the landing page content
+relevant to what he is looking for.
+
+*** DONE What is the disturbing event?
+CLOSED: [2022-03-09 wo 06:43]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:43]
+:END:
+But the he asks himself: Should I spend more time reading MDR content?
+
+** DONE What is the Complication?
+CLOSED: [2022-03-09 wo 06:44]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:44]
+:END:
+*** DONE What is R1 (undesired result)?
+CLOSED: [2022-03-09 wo 06:44]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:44]
+:END:
+Not sure if reading more MDR content is worth the time 
+
+*** DONE What is R2 (desired result)?
+CLOSED: [2022-03-09 wo 06:44]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:44]
+:END:
+Know how much time to spend on reading MDR. 
+
+*** DONE Is there another layer of R1 and R2?
+CLOSED: [2022-03-09 wo 06:44]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:44]
+:END:
+Nope
+
+** DONE What is the reader's Question?
+CLOSED: [2022-03-09 wo 06:44]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:44]
+:END:
+Should I spend more time reading MDR?
+
+** DONE What is my Answer (in one paragraph)?
+CLOSED: [2022-03-09 wo 06:57]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 06:57]
+:END:
+We go through a huge amount of data to find out how smart contracts are actually
+used in the real world. We write our content for:
+1. People who are interested to learn about smart contracts
+2. People who are already using smart contracts
+3. People who build smart contracts
+
+** DONE Does the reader come up with new Questions?
+CLOSED: [2022-03-09 wo 07:19]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 07:19]
+:END:
+Yes
+*** What does "actually used" mean?
+*** What kind of data? Is it reliable?
+*** Why should I trust you?
+*** Okay, what should I read next?
+
+* TODO CRAFT --> Update Tree of Questions with SCQA and new Quetions
+
+
+* PASS NOTE --> Fleeting notes
+:LOGBOOK:
+- State "PASS"       from "TODO"       [2022-03-09 wo 07:20]
+:END:
+
+
+* PASS DRILL
+:LOGBOOK:
+- State "PASS"       from "TODO"       [2022-03-09 wo 07:20]
+:END:

@@ -2,7 +2,7 @@
 #+STARTUP: showall
 
 * Horizon
-I see that I publish MDR posts weekly and tweets daily
+I see that I publish MDR tweets daily and posts weekly.
 
 * Loops
 ** DONE Past loops
@@ -39,28 +39,30 @@ I see that I publish MDR posts weekly and tweets daily
 |------+--------+--------------------------------------+--------|
 
 ** TODO Next loops
-|------+--------+---------------------------+--------|
-| Loop | Output | Tree                      | Status |
-|------+--------+---------------------------+--------|
-|   18 | root   | About                     | [x]    |
-|   19 | branch | MDR is extremely valuable | [ ]    |
-|   20 | About  | tweet                     | [ ]    |
-|   21 | post   | About                     | [ ]    |
-|------+--------+---------------------------+--------|
-|   22 |        | writing-pyramid           | [ ]    |
-|   23 |        | writing-new               | [ ]    |
-|   24 |        | writing-revised           | [ ]    |
-|   25 |        | writing-live              | [ ]    |
-|   26 |        | -->                       |        |
-|------+--------+---------------------------+--------|
-|   27 |        | ...                       | [ ]    |
-|   28 |        | -->                       |        |
-|------+--------+---------------------------+--------|
-|   29 |        | root question             | [ ]    |
-|   30 |        | brach question            | [ ]    |
-|   31 |        | tweet                     | [ ]    |
-|   32 |        | post                      | [ ]    |
-|   33 |        | --> DONE                  |        |
-|------+--------+---------------------------+--------|
+|------+--------+--------------------------------+--------|
+| Loop | Output | Tree                           | Status |
+|------+--------+--------------------------------+--------|
+|   18 | root   | About                          | [x]    |
+|   19 | branch | What do I get from reading MDR | [x]    |
+|   20 | md     | about.md config                | [x]    |
+|   21 | root   | Root (new text format)         | [ ]    |
+|   22 | About  | tweet                          | [ ]    |
+|   23 | post   | About                          | [ ]    |
+|------+--------+--------------------------------+--------|
+|   24 |        | writing-pyramid                | [ ]    |
+|   25 |        | writing-new                    | [ ]    |
+|   26 |        | writing-revised                | [ ]    |
+|   27 |        | writing-live                   | [ ]    |
+|   28 |        | -->                            |        |
+|------+--------+--------------------------------+--------|
+|   29 |        | ...                            | [ ]    |
+|   30 |        | -->                            |        |
+|------+--------+--------------------------------+--------|
+|   31 |        | root question                  | [ ]    |
+|   32 |        | brach question                 | [ ]    |
+|   33 |        | tweet                          | [ ]    |
+|   34 |        | post                           | [ ]    |
+|   35 |        | --> DONE                       |        |
+|------+--------+--------------------------------+--------|
 #+tblfm: $1=@#+16
 

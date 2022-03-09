@@ -1,0 +1,132 @@
+#+TITLE: What do I get from reading MDR?
+#+OUTPUT: Branch question
+#+STARTUP: showall
+
+* TODO EXPLORE
+:PROPERTIES:
+:VISIBILITY: content
+:END:
+** DONE How does the Tree of Questions look like so far?
+CLOSED: [2022-03-08 di 04:17]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 04:17]
+:END:
+#+BEGIN_SRC dot :file L18.svg :cmdline -Tsvg
+graph {
+    bgcolor=ivory
+    fontname="Fira Code"
+    fontsize=13
+    pad="0.8, 0.6"
+    node [shape=box, fontname="Fira Code", fontsize=11, margin="0.26, 0.1"]
+    edge [fontname="Fira Code", fontsize=11]
+    
+    root [label="Should I spend more time on MDR?"]
+    root -- Yes
+
+    // Drill
+    Yes [shape=plaintext]
+    Yes -- b1, b2, b3
+
+    b1 [label="What do I get from reading MDR?", style=filled]
+    b2 [label="Can I trust MDR?"]
+    b3 [label="Is MDR easy to read?"]
+    
+}
+#+END_SRC
+
+#+RESULTS:
+[[file:L18.svg]]
+
+
+** DONE What is the Situation that the reader will agree with?
+CLOSED: [2022-03-08 di 04:22]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 04:22]
+:END:
+The landing page is relevant enough for the reader to read the About page.   
+
+** DONE What is the Complication?
+CLOSED: [2022-03-08 di 04:44]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 04:44]
+:END:
+There are so many people talking about crypto and smart contracts. They all seem
+to have good information.
+
+** DONE What Question is triggered by the Compliaction??
+CLOSED: [2022-03-08 di 04:45]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-08 di 04:45]
+:END:
+Why should I read MDR instead of the alternatives?
+
+** DONE How do I answer the Question?
+CLOSED: [2022-03-09 wo 04:15]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 04:15]
+:END:
+What do I get from reading MDR?
+I will show you learn how smart contract is actually used, using data directly
+from the blockchain, without any conflict of interest. 
+
+** TODO What are the next questions on the Tree of Question?
+#+BEGIN_SRC dot :file L18.svg :cmdline -Tsvg
+graph {
+    bgcolor=ivory
+    fontname="Fira Code"
+    fontsize=13
+    pad="0.8, 0.6"
+    node [shape=box, fontname="Fira Code", fontsize=11, margin="0.26, 0.1"]
+    edge [fontname="Fira Code", fontsize=11]
+    
+    root [label="Should I spend more time on MDR?"]
+    root -- a0
+
+    // DRILL 
+    a0 [shape=plaintext, label="Yes"]
+    a0 -- q1, q2, q3
+
+    q1 [label="What do I get from reading MDR?", style=filled]
+    q2 [label="Can I trust MDR?"]
+    q3 [label="Is MDR easy to read?"]
+
+    q1 -- a1
+    a1 [shape=plaintext, label="I will show you how smart contracts
+	are actually used, using data directly
+	from the blockchain, without any
+	conflict of interest."]
+
+    a1 -- q11, q12, q13
+    q11 [label="Why should I care about 
+	 how smart contracts are 
+	 actually used"]
+    q12 [label="Why data directly from
+	 the blockchains?"]
+    q13 [label="Why without conflict 
+	 of interest?"]
+    
+}
+#+END_SRC
+
+#+RESULTS:
+[[file:L18.svg]]
+
+* DONE CRAFT
+CLOSED: [2022-03-09 wo 04:37]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 04:37]
+- State "TODO"       from              [2022-03-09 wo 04:36]
+:END:
+DOT is too high overhead. Try text only
+
+* PASS NOTE --> Fleeting notes
+:LOGBOOK:
+- State "PASS"       from "TODO"       [2022-03-09 wo 04:27]
+:END:
+
+
+* DONE DRILL
+CLOSED: [2022-03-09 wo 04:37]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-09 wo 04:37]
+:END:

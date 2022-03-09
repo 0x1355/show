@@ -93,12 +93,12 @@ graph {
     node [shape=box, fontname="Fira Code", fontsize=11, margin="0.26, 0.1"]
     edge [fontname="Fira Code", fontsize=11]
     
-    root [label="Should I spend more time reading MDR content?"]
+    root [label="Should I spend more time on MDR?"]
     root -- b1, b2, b3
 
-    b1 [label="MDR content is extremely valuable"]
-    b2 [label="MDR content is trustworthy"]
-    b3 [label="MDR content is easy to read"]
+    b1 [label="What do I get from reading MDR?"]
+    b2 [label="Can I trust MDR?"]
+    b3 [label="Is MDR easy to read?"]
     
 }
 #+END_SRC
