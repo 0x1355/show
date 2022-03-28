@@ -6,7 +6,7 @@ I couldn't find anything back then. And I still hadn't find anything in early 20
 
 Money Data Reality is the site I wish existed when I started seriously learning about smart contracts.
 
-## Who are you and why should I trust you
+## Who are you and why should I trust you?
 I am Hao - pronounced "how". I also go by the name of 0x1355 on Twitter. Before I dedicated full-time to crypto investing and writing about smart contracts, I had more than 10 years of experience in product management, marketing, and data science. 
 
 When it comes to smart contracts and crypto in general, it is best not to blindly trust anyone. I learned this the hard way. Now when I decide whether I can trust someone or some information source, I ask myself two questions:
@@ -26,5 +26,5 @@ Fundamentally, smart contracts are just pieces of software that change data on s
 When it comes to Money Data Reality, I will back all key points in my posts with data. 
 
 ## Don't be a stranger
-It takes quite some time and energy to write about smart contracts this way. So if you like what you read, drop me an email at 0x1355 //AT// gmail //DOT// com. Let me know what you like, and what else you would like to learn about smart contracts. 
+It takes quite some time and energy to write about smart contracts this way. So if you like what you read, drop me an email at 0x1355 //AT// gmail //DOT// com. Let me know what you like, and what else you would like to learn about smart contracts. This will help me wirte better and more relevant content in the future.
 
