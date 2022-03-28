@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Simple explanations of how crypto actually works"
+  homeSubtitle = "Smart contracts explained for smart people"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = true
@@ -20,8 +20,8 @@ paginate     = 10
   enableSharingButtons = false
 
   # Metadata mostly used in document's head
-  description = "Simple explanations of how crypto actually works through the lense of money, data and reality."
-  keywords = "crypto, ethereum, web3, smart contract, evm, L1 chain"
+  description = "Simple explanations of how smart contracts actually work through the lense of money, data and reality."
+  keywords = "crypto, ethereum, web3, smart contract, evm, L1 chain, L2 chain"
 
 [taxonomies]
     category = "blog"
@@ -31,8 +31,8 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Money Data Reality"
-    subtitle = "Simple explanations of how crypto actually works"
-    keywords = "crypto, ethereum, web3, smart contract, evm, L1 chain"	
+    subtitle = "Smart contracts explained for smart people"
+    keywords = "crypto, ethereum, web3, smart contract, evm, L1 chain, L2 chain"	
     copyright = 'Copyrighted 2022 by @0x1355'
     readOtherPosts = "Read other posts"
 
